@@ -6,7 +6,6 @@ import {
   Smartphone,
   Monitor,
   Layers,
-
 } from 'lucide-react';
 
 
@@ -133,7 +132,7 @@ export default function App() {
         {/* --- Hero Section --- */}
         <section className="py-20 md:py-32 flex flex-col justify-center min-h-[60vh]">
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight leading-tight max-w-4xl">
-            Connecting to your deeper <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-blue-400 dark:from-blue-400 dark:to-blue-300">Mobile apps</span> and web platforms.
+            Building scalable <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-blue-400 dark:from-blue-400 dark:to-blue-300">Mobile apps</span> and web platforms.
           </h1>
           <p className="mt-8 text-xl text-zinc-500 dark:text-zinc-400 max-w-2xl leading-relaxed">
             Frontend developer specializing in Kotlin, KMP, and React. Crafting seamless, high-performance user experiences across mobile and web since 2018.
@@ -253,7 +252,7 @@ export default function App() {
           </a>
 
           <div className="mt-16 pt-8 border-t border-zinc-200 dark:border-zinc-800 flex flex-col md:flex-row items-center justify-between gap-4 text-zinc-500 dark:text-zinc-400">
-            <p>© {new Date().getFullYear()} Dan Chua. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Dan Cecilio Chua. All rights reserved.</p>
             <div className="flex items-center gap-6">
               <a href="#" className="hover:text-zinc-900 dark:hover:text-zinc-100 transition-colors aria-label='GitHub'">
 
